@@ -26,13 +26,10 @@ Global
 		{6766EA7E-EB79-40DE-9AD7-E47D655CA945}.Release|x86.ActiveCfg = Release|Any CPU
 		{6766EA7E-EB79-40DE-9AD7-E47D655CA945}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = CsharpNunitKoans\CsharpNunitKoans.csproj
-	EndGlobalSection
-	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = csharp-koans.vsmdi
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CsharpNunitKoans\CsharpNunitKoans.csproj
 	EndGlobalSection
 EndGlobal
